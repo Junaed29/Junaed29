@@ -132,7 +132,7 @@ struct Developer {
 
 ### 🤖 Android Legacy
 - **[Purity - Muhammadi Islam](https://play.google.com/store/apps/details?id=com.sul.purity)** - 5K+ downloads, 5⭐ rating
-- **Hooray Health (Android)** - 10K+ downloads, 90% crash-free sessions
+- **[Hooray Health (Android)](https://play.google.com/store/apps/details?id=com.hoorayhealthcare.asif.hoorayhealth)** - 10K+ downloads, 90% crash-free sessions
 
 ---
 
