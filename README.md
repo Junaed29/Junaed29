@@ -1,209 +1,99 @@
-# Hi there! 👋 I'm Junaed Muhammad Chowdhury
+### Hi, I'm Junaed
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=iOS+Developer+with+SwiftUI+Expertise;Building+Scalable+Mobile+Solutions;5%2B+Years+in+Mobile+Development)](https://git.io/typing-svg)
+Mobile engineer based in Kuala Lumpur. Five years across native iOS, native Android, and now Flutter. Open-source flagship is **[MediVault AI](https://github.com/Junaed29/MediVault-AI)** - on-device medical RAG running Qwen 2.5-1.5B via llama.cpp Metal at ~22 tokens per second on iPhone 14 Pro.
 
-</div>
-
-<div align="center">
-  
-🍎 **iOS Developer** | 🚀 **SwiftUI Specialist** | 🌟 **Mobile Architecture Enthusiast**
-
-📍 **Kuala Lumpur, Malaysia** • 🎓 **M.Sc. Software Engineering (In Progress)**
-
-</div>
+Currently a Software Engineer Intern at **Theta Edge Berhad** (5-month UTM industrial attachment), shipping **PilgrimPro** in Flutter. Wrapping up an **M.Sc. in Software Engineering at UTM**, 4.00 / 4.00 GPA so far, graduating December 2026.
 
 ---
 
-## 🚀 About Me
+### What I work on
 
-```swift
-struct Developer {
-    let name = "Junaed Muhammad Chowdhury"
-    let role = "iOS Developer"
-    let experience = "1.5+ years iOS, 5+ years mobile development"
-    let passion = ["SwiftUI", "Mobile Architecture", "Performance Optimization"]
-    
-    var currentFocus: [String] {
-        return [
-            "🎯 Building production-ready iOS apps",
-            "📱 Mastering SwiftUI & Apple frameworks",
-            "🏗️ Architecting scalable mobile solutions",
-            "🎓 Pursuing M.Sc. in Software Engineering"
-        ]
-    }
-}
-```
-
-- 🔭 Currently working as **iOS Developer** at **Beyond Innovations & Technologies Ltd.**
-- 🌱 Specialized in **SwiftUI**, **SwiftData**, **Combine**, and **Apple Frameworks**
-- 📱 Contributed to **App Store apps** with **15K+ downloads** across platforms
-- 🎯 Successfully transitioned from **Android to iOS development** 
-- 🎓 Pursuing **M.Sc. in Software Engineering** at **Universiti Teknologi Malaysia**
-- 💡 Creator of **[SwiftUI Professional Network](https://github.com/Junaed29/SwiftUI-Professional-Network)** - advanced iOS prototype
+- **Native iOS** in Swift, SwiftUI, SwiftData. Shipped multiple production apps. Solo on two (DailyTrack, LinkBay), part of a 5-engineer team on a white-label healthcare platform (Hooray Health, WellCall 360).
+- **Native Android** in Kotlin and earlier Java. Owned Play Store publishing across 4 production apps with 30+ releases. Modernized a codebase from Java + XML + LiveData through to Kotlin + Compose + StateFlow over three years.
+- **Cross-platform Flutter** at Theta Edge. Designed the team's GitHub Actions CI workflow from scratch.
+- **On-device AI / ML.** llama.cpp Metal, Core ML, Apple Vision OCR, GRDB vector store, GBNF grammars for typed JSON output. Privacy-first, no-cloud LLM apps that run on a 2-year-old iPhone.
+- **Full-stack web** when needed. Django 5 (capstone project, 6-person team, Project Leader). PHP / Laravel (Theta Edge backend).
 
 ---
 
-## 🛠️ Tech Stack
+### Tech stack
 
-<div align="center">
+**Mobile**
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=flat-square&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-### 📱 Mobile Development
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0066CC?style=for-the-badge&logo=swift&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white)
+**AI / ML**
+![Core ML](https://img.shields.io/badge/Core%20ML-000000?style=flat-square&logo=apple&logoColor=white)
+![llama.cpp](https://img.shields.io/badge/llama.cpp-000000?style=flat-square)
+![Metal](https://img.shields.io/badge/Metal-AB47BC?style=flat-square&logo=apple&logoColor=white)
 
-### 🗄️ Databases & Storage
-![Core Data](https://img.shields.io/badge/Core%20Data-FF6B35?style=for-the-badge&logo=apple&logoColor=white)
-![SwiftData](https://img.shields.io/badge/SwiftData-FF3B30?style=for-the-badge&logo=swift&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
+**Backend**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
-### ⚡ Architecture & Patterns
-![MVVM](https://img.shields.io/badge/MVVM-4CAF50?style=for-the-badge)
-![Combine](https://img.shields.io/badge/Combine-FF9500?style=for-the-badge&logo=apple&logoColor=white)
-![Async/Await](https://img.shields.io/badge/Async%2FAwait-007ACC?style=for-the-badge&logo=swift&logoColor=white)
-
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Junaed29&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junaed29&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Junaed29&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
+**Tools**
+![Xcode Cloud](https://img.shields.io/badge/Xcode%20Cloud-1575F9?style=flat-square&logo=xcode&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
-## 🌟 Featured Projects
+### Featured projects
 
-<div align="center">
+**[MediVault AI](https://github.com/Junaed29/MediVault-AI)** - Open-source on-device medical RAG for iOS. Qwen 2.5-1.5B running via llama.cpp Metal, GRDB SQLite vector store, three-layer medical-advice safety filter. MIT licensed. ~22 tok/s median on iPhone 14 Pro.
 
-[![SwiftUI Professional Network](https://github-readme-stats.vercel.app/api/pin/?username=Junaed29&repo=SwiftUI-Professional-Network&theme=tokyonight)](https://github.com/Junaed29/SwiftUI-Professional-Network)
+**[DailyTrack](https://apps.apple.com/il/app/dailytrack-plan-track-achieve/id6753106752)** - Solo-shipped iOS app on the App Store. Gamified daily tracker with a custom GitHub-style streak heatmap. Zero third-party dependencies. Built with SwiftUI, SwiftData, and Apple Swift Charts.
 
-</div>
+**[LinkBay](https://apps.apple.com/il/app/linkbay-smart-link-manager/id6753339145)** - Solo-shipped iOS app on the App Store. Privacy-first link manager with Share Extension support for Safari, YouTube, and X. Hand-rolled Open Graph extraction that runs 5-10x faster than `LPMetadataProvider`.
 
-### 🔥 [SwiftUI Professional Network](https://github.com/Junaed29/SwiftUI-Professional-Network)
-> **Modern professional networking reimagined with SwiftUI**
-
-**🚀 Key Features:**
-- 🎨 **15+ Custom SwiftUI Components** with clean MVVM architecture
-- 🎭 **Tinder-style Discovery Interface** with gesture-based swiping
-- ⚡ **60fps Animations** using async/await concurrency
-- 🌙 **Dynamic Theming** (Light/Dark mode)
-- 🎬 **Lottie Animations** for professional onboarding flow
-- 📱 **Production-ready** modular codebase
-
-**🛠️ Tech Stack:** SwiftUI • Combine • MVVM • Lottie • Swift Package Manager
-
-**🎥 [Watch Demo](https://youtube.com/shorts/BaY5gXrCIrs?feature=share)** • **🌐 [Live Portfolio](https://junaed29.github.io/ios-portfolio/)**
+**[TFMS](https://github.com/Junaed29/TFMS-CodeForce)** - M.Sc. capstone. Django 5 web app that replaces a spreadsheet workflow with RBAC across five role-based dashboards, multi-step approval, audit logging, and PDF / Excel reporting. Led a 6-person team as Project Leader. [Live demo](https://junaed.pythonanywhere.com).
 
 ---
 
-## 💼 Professional Impact
+### GitHub stats
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Junaed29&show_icons=true&count_private=true&include_all_commits=true&show=prs_merged,reviews&theme=tokyonight&hide_border=true&card_width=480">
+  <img alt="Junaed's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Junaed29&show_icons=true&count_private=true&include_all_commits=true&show=prs_merged,reviews&theme=default&hide_border=true&card_width=480">
+</picture>
 
-| 📱 **Production Apps** | 📈 **Downloads** | ⭐ **User Rating** | 🛡️ **Stability** |
-|:---:|:---:|:---:|:---:|
-| **6+ Apps Shipped** | **15K+ Combined** | **5.0⭐ (487 reviews)** | **90% Crash-free** |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Junaed29&layout=compact&langs_count=8&hide=jupyter%20notebook,html,css&theme=tokyonight&hide_border=true&card_width=480">
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junaed29&layout=compact&langs_count=8&hide=jupyter%20notebook,html,css&theme=default&hide_border=true&card_width=480">
+</picture>
 
-</div>
-
-### 🍎 iOS Contributions
-- **[Hooray Health (iOS)](https://apps.apple.com/us/app/hooray-health/id1285135333)** - UIKit → SwiftUI migration
-- **[WellCall360 (iOS)](https://apps.apple.com/us/app/wellcall360/id1485296723)** - Performance optimization & UX enhancements
-
-### 🤖 Android Legacy
-- **[Purity - Muhammadi Islam](https://play.google.com/store/apps/details?id=com.sul.purity)** - 5K+ downloads, 5⭐ rating
-- **[Hooray Health (Android)](https://play.google.com/store/apps/details?id=com.hoorayhealthcare.asif.hoorayhealth)** - 10K+ downloads, 90% crash-free sessions
+<sub>Stats above only count public-repo activity. Most of my five years has been in private organization repos at Beyond Innovations and Theta Edge, so the public numbers undersell the actual scope. Happy to walk through real production work on a call.</sub>
 
 ---
 
-## 🎯 Current Goals
+### Currently
 
-```swift
-let goals2025: [String] = [
-    "🎓 Complete M.Sc. in Software Engineering at UTM Malaysia",
-    "📱 Contribute to more App Store applications",
-    "🚀 Build advanced iOS apps with cutting-edge Apple technologies",
-    "🌟 Grow open-source iOS community contributions",
-    "💼 Secure senior iOS developer role at innovative company"
-]
-```
+- Building **PilgrimPro** at Theta Edge Berhad (Flutter + Laravel)
+- Maintaining **MediVault AI** as my open-source flagship
+- Finishing M.Sc. at UTM (graduating December 2026)
+- Studying the *Prime: Complete AI/ML Job Preparation* curriculum (Python, PyTorch, transformers, LLMs)
 
 ---
 
-## 🏆 Achievements & Recognition
+### Open to
 
-- 🥉 **2nd Runner-Up** - Inter-University Project Fair (2019)
-- 🎖️ **Certified** in Mobile Games & App Development
-- 📜 **IELTS 6.5** (English Proficiency)
-- 💻 **100+ Problems Solved** on Codeforces
-- 📱 **Performance Expert** - Reduced app complexity by 30%, load times by 20%
+- **Mid-to-senior mobile / software engineering roles.** Remote globally is the priority, or relocation to Australia or Germany.
+- **Select short-term consulting** on iOS, Android, Flutter, or on-device ML projects.
+- **Conversations** about on-device LLMs, mobile + AI architecture, or shipping native apps to App Store / Play Store.
 
 ---
 
-## 📈 Performance Metrics
+### Get in touch
 
-<div align="center">
+- **Email:** junaed.dev@gmail.com
+- **LinkedIn:** [linkedin.com/in/junaed29](https://linkedin.com/in/junaed29)
+- **For consulting:** same email, "consulting" in the subject helps me prioritize.
 
-| Metric | Achievement |
-|:---:|:---:|
-| **Code Complexity Reduction** | **30%** ⬇️ |
-| **Performance Improvement** | **20%** ⬆️ |
-| **App Stability** | **90%** Crash-free |
-| **User Satisfaction** | **5.0⭐** Rating |
-| **Production Apps** | **6+** Shipped |
+<sub>Replying within 24 hours during weekdays (UTC+8).</sub>
 
-</div>
-
----
-
-## 🌐 Let's Connect!
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://junaed29.github.io/ios-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junaed29/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junaed.dev@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-## 💡 "Building the future, one SwiftUI component at a time"
-
-### 📱 Always exploring the latest in iOS development
-### 🚀 Open to exciting opportunities and collaborations
-### 🎯 Let's create something amazing together!
-
-![Profile Views](https://komarev.com/ghpvc/?username=Junaed29&label=Profile%20views&color=0e75b6&style=flat)
-
-</div>
-
----
-
-<div align="center">
-
-**⭐ If you find my work interesting, please consider giving a star to my repositories!**
-
-</div>
